@@ -42,10 +42,6 @@ This repository includes the following practical works:
 - Image inpainting
 - High dynamic range imaging
 
-## Language
-
-The course materials and practical works are in French.
-
 ## Note
 
 This repository contains only the practical works completed during the course. For full course materials or additional information, please refer to the official course documentation.
